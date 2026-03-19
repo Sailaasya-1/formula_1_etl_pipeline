@@ -20,6 +20,7 @@ Azure Data Factory (ADF) orchestrates the workflow by triggering Databricks note
 - Databricks reads raw data from ADLS.
 - PySpark applies validation and transformations.
 - Processed datasets are written back to ADLS for analysis.
+- Connected to PowerBI for analysis.
 
 
 ### 🔹Technologies 
