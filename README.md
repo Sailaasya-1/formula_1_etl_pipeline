@@ -4,7 +4,7 @@
 
 ### 📌 Overview
 
-This project implements an end-to-end data pipeline using Databricks (PySpark) to process ~200K records stored in Azure Data Lake Storage (ADLS).
+This project implements an end-to-end data pipeline using Databricks (PySpark) to process data from 8 source tables stored in Azure Data Lake Storage (ADLS).
 Azure Data Factory (ADF) orchestrates the workflow by triggering Databricks notebooks in sequence.
 
 
